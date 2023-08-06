@@ -8,7 +8,7 @@ for(i in 1:n3){
   train.noi[,,i][sample(which(train.noi[,,i]>0),100*100*j)]<-0
   train.noi[,,i][sample(which(train.noi[,,i]>0),100*100*j)]<-1
 }
-#导出噪声图片
+
 for(i in 1:n3){
   writePNG(train.noi[,,i],sprintf("noise/0%d.png", i))
 }
