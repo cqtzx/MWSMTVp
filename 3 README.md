@@ -4,11 +4,6 @@ Total Variation Regularized Multi-Matrices Weighted Schatten p-norm Minimization
 
 Zuoxun Tan, Hu Yang
 
-Applied Mathematical Modelling (AMM), 2023 
-
-
-### Citation
-If this code is useful to you, we sincerely hope that you can cite our paper 
 
 
 ### 
