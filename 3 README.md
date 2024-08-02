@@ -2,7 +2,7 @@ This is the code for
 
 Total Variation Regularized Multi-Matrices Weighted Schatten p-norm Minimization for Image Denoising
 
-Zuoxun Tan, Hu Yang
+Zuoxun Tan, Hu Yang*
 
 ### Citation
 If this code is useful to you, we sincerely hope that you can cite our paper 
